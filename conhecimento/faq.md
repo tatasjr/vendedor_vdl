@@ -1,6 +1,6 @@
 ## faq
 ### Quanto tempo para ver resultado?
-Primeiros contatos nas primeiras semanas. Mínimo 3 meses para avaliar o canal completo.
+Primeiros contatos nas primeiras semanas. E no Mínimo 3 meses para avaliar o canal completo.
 
 ### Atende qualquer tamanho de fabricante?
 Sim. Planos Básico, Intermediário e Premium para diferentes momentos e orçamentos.
