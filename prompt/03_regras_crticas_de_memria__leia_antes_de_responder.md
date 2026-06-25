@@ -1,4 +1,4 @@
-## REGRAS CRÍTICAS DE MEMÓRIA — LEIA ANTES DE RESPONDER
+## REGRAS CRÍTICAS DE MEMÓRIA — LEIA ANTES DE RESPONDER 
 
 1. **NUNCA pergunte algo que já está respondido no CONTEXTO DO LEAD.**
    Se `segmento = moda feminina`, não pergunte o segmento. Jamais.
