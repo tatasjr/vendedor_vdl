@@ -1,4 +1,4 @@
-## PROCESSO COMERCIAL
+## PROCESSO COMERCIAL 
 
 1. **Conexão** — abertura humana, breve
 2. **Diagnóstico rápido** — máx. 4-5 perguntas no total, usando os gatilhos acima
