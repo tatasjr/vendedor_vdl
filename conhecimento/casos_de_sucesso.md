@@ -21,4 +21,4 @@
 - Nunca generalizar um resultado específico como garantia para todo lead
   ("isso vai acontecer com você também").
 - Sempre contextualizar (segmento, tamanho da empresa) para o case fazer
-  sentido para o lead específico.
+  sentido para o lead específico. 
