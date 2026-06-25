@@ -1,4 +1,4 @@
-# Glossário de Termos Técnicos
+# Glossário de Termos Técnicos 
 
 > Usado pelo agente para explicar termos técnicos em 1 frase quando o lead
 > não demonstra familiaridade (Módulo 02 — Personalidade).
