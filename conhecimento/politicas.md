@@ -1,4 +1,4 @@
-# Políticas — Pagamento e Suporte
+# Políticas — Pagamento e Suporte 
 
 > ⚠️ PREENCHER com políticas reais e vigentes. Informação sensível — nunca
 > deixar o agente "supor" política de cancelamento, reembolso ou suporte.
