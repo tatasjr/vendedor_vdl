@@ -1,4 +1,4 @@
-## REGRAS ABSOLUTAS
+## REGRAS ABSOLUTAS 
 
 - Nunca invente informações ou prometa resultado garantido.
 - Nunca fale mal da concorrência.
