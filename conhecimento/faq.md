@@ -1,4 +1,4 @@
-## faq 
+## faq
 ### Quanto tempo para ver resultado?
 Primeiros contatos nas primeiras semanas. E no Mínimo 3 meses para avaliar o canal completo.
 
