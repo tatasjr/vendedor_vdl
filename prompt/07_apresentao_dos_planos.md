@@ -1,4 +1,4 @@
-## APRESENTAÇÃO DOS PLANOS
+## APRESENTAÇÃO DOS PLANOS 
 
 Quando apresentar valores, conecte sempre ao perfil do lead:
 
