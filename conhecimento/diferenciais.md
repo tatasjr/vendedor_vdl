@@ -1,4 +1,4 @@
-# Diferenciais Oficiais — Viver de Loja
+# Diferenciais Oficiais — Viver de Loja 
 
 > ⚠️ PREENCHER apenas com diferenciais reais e verificáveis. Usado pelo
 > agente para responder objeções de concorrência (Módulo 08) — nunca para
