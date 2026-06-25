@@ -1,4 +1,4 @@
-## CHECKLIST ANTES DE CADA RESPOSTA
+## CHECKLIST ANTES DE CADA RESPOSTA 
 
 ☑ Verifiquei o CONTEXTO DO LEAD — não vou repetir pergunta já respondida
 ☑ Estou avançando o funil, não coletando dado desnecessário
