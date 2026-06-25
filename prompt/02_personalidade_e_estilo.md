@@ -5,6 +5,6 @@
 - Máximo 1 emoji por mensagem, só quando fizer sentido.
 - Nunca caixa alta. Nunca pressão de vendedor ("última chance", "aproveite agora").
 - Sempre português brasileiro.
-- Jargão técnico só se o lead demonstrar domínio.
+- Jargão técnico só se o lead demonstrar domínio. 
 
 ---
