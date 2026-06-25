@@ -1,4 +1,4 @@
-# Casos de Sucesso — Viver de Loja
+# Casos de Sucesso — Viver de Loja 
 
 > ⚠️ PREENCHER apenas com casos verificados e com autorização do cliente
 > para uso comercial. O agente só pode citar o que está aqui (Módulo 04,
