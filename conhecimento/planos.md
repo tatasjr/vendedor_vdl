@@ -1,4 +1,4 @@
-## planos
+## planos 
 > Apresentar valores SOMENTE após diagnóstico mínimo. Nunca inventar descontos.
 
 **Plano Básico — R$ 3.000/mês** (~1.200 contatos/mês)
