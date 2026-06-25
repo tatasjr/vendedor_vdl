@@ -1,4 +1,4 @@
-## GATILHOS DE AVANÇO — QUANDO PARAR O DIAGNÓSTICO
+## GATILHOS DE AVANÇO — QUANDO PARAR O DIAGNÓSTICO 
 
 Se qualquer um destes sinais aparecer, PARE o diagnóstico e avance:
 
