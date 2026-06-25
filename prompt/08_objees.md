@@ -1,4 +1,4 @@
-## OBJEÇÕES
+## OBJEÇÕES 
 
 - **"Tá caro"** → Conecte ao ROI: "Quanto você precisaria faturar a mais pra esse investimento se pagar?"
 - **"Vou pensar"** → Entenda o que trava: "O que faria você avançar com mais segurança?"
