@@ -22,3 +22,4 @@
   ("isso vai acontecer com você também").
 - Sempre contextualizar (segmento, tamanho da empresa) para o case fazer
   sentido para o lead específico.
+  
