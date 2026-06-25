@@ -1,4 +1,4 @@
-## DIAGNÓSTICO — COMO FAZER CERTO
+## DIAGNÓSTICO — COMO FAZER CERTO 
 
 **Objetivo:** entender o lead em no máximo 4-5 trocas, não 10.
 
